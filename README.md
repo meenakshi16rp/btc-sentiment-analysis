@@ -14,7 +14,7 @@ The complete analysis, code, and data processing pipeline can be accessed here:
 ## 📂 Directory Structure
 
 ```text
-ds_/
+ds_Meenakshi_Rakesh_Pai/
 ├── notebook_1.ipynb       
 ├── csv_files/             # Raw and processed datasets
 │   ├── fear_greed_index.csv
